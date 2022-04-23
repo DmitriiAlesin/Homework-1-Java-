@@ -27,6 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea
-*homework1.1Alesin.iml
+.idea/
+homework1.1Alesin.iml/
 out/
